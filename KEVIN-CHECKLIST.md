@@ -9,7 +9,8 @@ Hand this list to Kevin (or his agent). Items marked **done for you** are alread
 - [x] Email Routing enabled for the zone
 - [x] `book@kinetickevin.com` rule created (currently forwards to Tim’s Gmail until Kevin verifies)
 - [x] Destination address invited for **kevinslattery90@gmail.com** (needs Kevin to click verify)
-- [ ] GitHub repo + collaborator invite (pending Tim finishing `gh auth login`)
+- [x] GitHub repo: https://github.com/ignigknok/kinetickevin
+- [ ] Collaborator invite (needs Kevin’s GitHub **username** — no account found for kevinslattery90@gmail.com yet)
 
 ## Kevin: content (edit the site)
 
@@ -25,9 +26,10 @@ Work in `index.html` (and add files under `images/` as needed). Every `[PLACEHOL
 
 ## Kevin: GitHub access
 
-1. [ ] Create or sign in to GitHub with **kevinslattery90@gmail.com**
-2. [ ] Accept the repo collaborator invite (email from GitHub)
-3. [ ] Clone the repo, edit, and push to `main` (Cloudflare Pages will redeploy automatically once Git is linked — or use the deploy command in README)
+1. [ ] Create a GitHub account (use **kevinslattery90@gmail.com**) and tell Tim your **username**
+2. [ ] Accept the collaborator invite Tim sends for https://github.com/ignigknok/kinetickevin
+3. [ ] Clone, edit placeholders, push to `main`
+4. [ ] Optional: Tim can transfer the repo to Kevin’s account later so he owns it outright
 
 ## Kevin: email (`book@kinetickevin.com`)
 
